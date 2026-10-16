@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "j1rensmp.playserver.pro",
+    "port": 18217,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
